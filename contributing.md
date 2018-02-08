@@ -28,7 +28,7 @@ If you have something awesome to contribute to an awesome list, this is how you 
 
 You'll need a [GitHub account](https://github.com/join)!
 
-1. Access the awesome lists GitHub page. For example: https://github.com/MaximAbramchuck/awesome-interviews
+1. Access the [survey](https://github.com/nickls/co-founder-survey).
 2. Click on the `README.md` file
 3. Now click on the edit icon.
 4. You can start editing the text of the file in the in-browser editor. Make sure you follow guidelines above. You can use [GitHub Flavored Markdown](https://help.github.com/articles/github-flavored-markdown/).

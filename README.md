@@ -28,6 +28,7 @@ Please read the [contribution guidelines](contributing.md) if you want to contri
 * Where should our startup be based? How do you feel about remote or distributed teams?
 * How do you think about how we raise money?
 * What happens if we get an acquisition offer for 8 figures? 9 figures? 10 figures?
+* What kind of exit strategy do you have in mind?
 * What's your runway? How much do you need to be paid, and when?
 
 
@@ -44,6 +45,7 @@ Please read the [contribution guidelines](contributing.md) if you want to contri
 ### Co-founder relationship
 
 * How much should we (the co-founders) communicate with each other?
+* How do you cope with stress?
 * How would we resolve personal conflict between ourselves?
 * How would you go about handling a startup divorce?
 * How would you think about bringing on a 3rd cofounder?
