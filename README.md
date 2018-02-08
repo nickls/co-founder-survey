@@ -19,6 +19,7 @@ Please read the [contribution guidelines](contributing.md) if you want to contri
 * What would you want your role to be, before we reach product market fit?
 * What would you want your role to be, we reach PMF?
 * What would you want your role to be, we start to really scale?
+* If your role becomes unavailable (i.e. the board hires a professional CEO), what would you want your new role to be?
 
 ### Logistics
 
@@ -42,8 +43,9 @@ Please read the [contribution guidelines](contributing.md) if you want to contri
 
 ### Co-founder relationship
 
-* How much should we (the cofounders) communicate with each other?
+* How much should we (the co-founders) communicate with each other?
 * How would we resolve personal conflict between ourselves?
+* How would you go about handling a startup divorce?
 * How would you think about bringing on a 3rd cofounder?
 
 
@@ -58,6 +60,7 @@ Please read the [contribution guidelines](contributing.md) if you want to contri
 
 * How much should we pay attention to competition?
 * How important is getting featured (either as a company, or personally) in the press to you. Why?
+* What is your framework for evaluating business opportunities?
 * What are your skills/strengths and weaknesses in (both as an IC, and as a leader):
   * sales
   - marketing
@@ -69,6 +72,13 @@ Please read the [contribution guidelines](contributing.md) if you want to contri
   - company building
   - recruiting
 
+### Staffing
+
+* How do you think about paying employees?
+* How much equity should early employees be given?
+* How will you create growth opportunities for early employees?
+* An employee asks for a small loan of $2000. What do you do?
+* What are the most important parts of attracting and retaining great people?
 * You’re recruiting employees. A candidate is looking good but then you discover a thing about them. What do you do when you find out that:
   - They used to work for the NSA?
   - They have tweeted positively about alt-right causes?
@@ -77,17 +87,8 @@ Please read the [contribution guidelines](contributing.md) if you want to contri
   - They have tweeted positively about anarchist causes?
   - They have posted on HN and they were a real asshole?
 
-### Staffing
-
-* How do you think about paying employees?
-* How much equity should early employees be given?
-* How will you create growth opportunities for early employees?
-* An employee asks for a small loan of $2000. What do you do?
-* What are the most important parts of attracting and retaining great people?
-
-
 ### Credits
-H/T to my friend Gloria for crafting the original. 🕵🏼‍♀️ 
+H/T to my friend Gloria for crafting the original. 🕵🏼‍♀️
 
 ### License
 
