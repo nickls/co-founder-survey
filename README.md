@@ -9,7 +9,7 @@ Please read the [contribution guidelines](contributing.md) if you want to contri
 - [Roles](#roles)
 - [Logistics](#logistics)
 - [Finances & Equity](#finances-&-equity)
-- [Exists](#exits)
+- [Exits](#exits)
 - [Personal Finances](#personal-finances)
 - [Culture](#culture)
 - [Co-founder relationship](#co-founder-relationship)
