@@ -30,25 +30,25 @@ Please read the [contribution guidelines](contributing.md) if you want to contri
 * What are the AORs for the CTO?
 * What are the AORs for the COO/CPO/etc.?
 
-##### Areas of Responsibility Exercise:
+#### Areas of Responsibility Exercise:
 1. Rank yourself in these areas (both as an IC, and as a leader) on a scale of 1-10:
-  - sales
-  - marketing
-  - product
-  - design
-  - engineering
-  - operations
-  - fundraising
-  - being a leader
-  - company building
-  - recruiting
-  - legal
-  - company specific skills (e.g. healthcare, ML)
+  * sales
+  * marketing
+  * product
+  * design
+  * engineering
+  * operations
+  * fundraising
+  * being a leader
+  * company building
+  * recruiting
+  * legal
+  * company specific skills (e.g. healthcare, ML)
 
-* Rate your passion in each of the above areas on a scale of none to high. (e.g. I'm an 8 in sales, but hate it now).
-* Cluster AORs based on rank, discuss, and assign to individuals. (John is a 10 in Product and gets that AOR).
-* Break ties using the passion rating. (e.g. Nick is a 7 in Sales with medium passion and Gloria is a 7 in Sales with high passion)
-* ** Discuss: ** do these clusters align with everyones expectations, skills, and desires?
+2. Rate your passion in each of the above areas on a scale of none to high. (e.g. I'm an 8 in sales, but hate it now).
+3. Cluster AORs based on rank, discuss, and assign to individuals. (John is a 10 in Product and gets that AOR).
+4. Break ties using the passion rating. (e.g. Nick is a 7 in Sales with medium passion and Gloria is a 7 in Sales with high passion)
+5. **Discuss:** do these clusters align with everyones expectations, skills, and desires?
 
 ### Logistics
 
