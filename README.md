@@ -145,7 +145,7 @@ Please read the [contribution guidelines](contributing.md) if you want to contri
   - They have posted on HN and they were a real jerk?
 
 ### Credits
-H/T to my friend Gloria for crafting the original. 🕵🏼‍♀️
+H/T to my friend [Gloria Lin](https://github.com/glo) for crafting the original. 🕵🏼‍♀️
 
 ### License
 
