@@ -25,7 +25,6 @@ Please read the [contribution guidelines](contributing.md) if you want to contri
 * What would you want your role to be, once we reach PMF?
 * What would you want your role to be, we start to really scale?
 * If your role becomes unavailable (e.g. the board hires a professional CEO), what would you want your new role to be?
-
 * What are the key areas of responsibility (AORs) for the CEO? 
 * What are the AORs for the CTO?
 * What are the AORs for the COO/CPO/etc.?
