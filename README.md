@@ -25,24 +25,22 @@ Please read the [contribution guidelines](contributing.md) if you want to contri
 * What would you want your role to be, once we reach PMF?
 * What would you want your role to be, we start to really scale?
 * If your role becomes unavailable (e.g. the board hires a professional CEO), what would you want your new role to be?
-* What are the key areas of responsibility (AORs) for the CEO? 
+* What are the areas of responsibility (AORs) for the CEO? 
 * What are the AORs for the CTO?
 * What are the AORs for the COO/CPO/etc.?
 
 #### Areas of Responsibility Exercise:
 1. Rank yourself in these areas (both as an IC, and as a leader) on a scale of 1-10:
-  * sales
-  * marketing
-  * product
-  * design
-  * engineering
-  * operations
-  * fundraising
-  * being a leader
-  * company building
-  * recruiting
-  * legal
-  * company specific skills (e.g. healthcare, ML)
+
+||||
+| ------------- |:-------------:|:-----:|
+| Sales         | Marketing     | Product |
+| Design        | Engineering   | Operations |
+| Fundraising   | Leadership    | Company Building |
+| Recruiting    | Legal     | Specific Skills^  |
+
+^ company specific skills (e.g. Healthcare, ML, etc.)
+
 
 2. Rate your passion in each of the above areas on a scale of none to high. (e.g. I'm an 8 in sales, but hate it now).
 3. Cluster AORs based on rank, discuss, and assign to individuals. (John is a 10 in Product and gets that AOR).
